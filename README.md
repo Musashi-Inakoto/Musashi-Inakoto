@@ -2,8 +2,8 @@
 
 <div align="center">
   
-## I'm **Musashi Inakoto** 
-### 🎮 Game Developer | Data Analyst | 💻 Full Stack Developer
+## I'm **Muhammed Dilshan E** 
+###  Data Analyst | 💻 Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Passionate+Developer;Building+Scalable+Solutions;Game+Dev+Enthusiast;Bot+Framework+Expert)](https://git.io/typing-svg)
 
