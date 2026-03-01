@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px" alt="wave"> Welcome to My GitHub Profile!
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVqbHljOTdhcW5meWpiNXN4cGI2eWM5cWNoMHVqa2c1c2JhNGx4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KHh7jLrG6gIXBTnxsp/giphy.gif" width="30px" alt="wave"> Welcome to My GitHub Profile!
 
 <div align="center">
   
@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="GIF" src="https://ibb.co/TDBJQpgj" width="280px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVqbHljOTdhcW5meWpiNXN4cGI2eWM5cWNoMHVqa2c1c2JhNGx4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KHh7jLrG6gIXBTnxsp/giphy.gif" width="280px"/>
 
 I'm a passionate developer dedicated to building efficient, scalable solutions across multiple technologies. With expertise in **game development**, **bot architecture**, and **full-stack web technologies**, I love turning ideas into reality through clean, maintainable code.
 
