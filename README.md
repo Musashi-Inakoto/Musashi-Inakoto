@@ -3,7 +3,7 @@
 <div align="center">
   
 ## I'm **Musashi Inakoto** 
-### 🎮 Game Developer | 🤖 Bot Architect | 💻 Full Stack Developer
+### 🎮 Game Developer | Data Analyst | 💻 Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Passionate+Developer;Building+Scalable+Solutions;Game+Dev+Enthusiast;Bot+Framework+Expert)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoRKslHVtqjXVJV0g/giphy.gif" width="280px"/>
+<img align="right" alt="GIF" src="[https://media.giphy.com/media/SWoRKslHVtqjXVJV0g/giphy.gif](https://www.pinterest.com/pin/programmer-day-porforever--8725793007198140/)" width="280px"/>
 
 I'm a passionate developer dedicated to building efficient, scalable solutions across multiple technologies. With expertise in **game development**, **bot architecture**, and **full-stack web technologies**, I love turning ideas into reality through clean, maintainable code.
 
