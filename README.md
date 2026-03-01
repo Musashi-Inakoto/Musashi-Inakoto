@@ -76,59 +76,6 @@ I'm a passionate developer dedicated to building efficient, scalable solutions a
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎮 **Genshu** - Python Telegram Game Bot
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Musashi-Inakoto)
-
-</div>
-
-<img align="left" alt="Game Dev" src="https://media.giphy.com/media/mC0kQKvnTZd4P9zdOC/giphy.gif" width="120px"/>
-
-**A game-based Telegram bot featuring:**
-- 🎮 Interactive game mechanics with story progression
-- 👤 Player state management with SQLite database
-- 🔌 Webhook-based bot architecture
-- 🎯 Modular handler system for scalability
-
-*Recent Work*: Refactored to webhook architecture, implemented comprehensive game systems
-
-<br/><br/>
-
----
-
-<div align="center">
-
-### 🤖 **Mei-JS** - Node.js Telegram Bot Framework
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Musashi-Inakoto)
-
-</div>
-
-<img align="right" alt="Bot Framework" src="https://media.giphy.com/media/QO0s7dI9lBxN8hXPQu/giphy.gif" width="120px"/>
-
-**Discord/Telegram bot framework featuring:**
-- ⚙️ Robust Node.js backend architecture
-- 🔧 Advanced configuration management
-- 📦 Efficient package management system
-- 🔗 Multi-platform integration support
-
-*Status*: Actively maintained with regular updates
-
-<br/><br/>
-
----
-
-<div align="center">
-
-### 🌐 **For-My-Momo** - Responsive Web Application
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Musashi-Inakoto)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Musashi-Inakoto)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Musashi-Inakoto)
-
-</div>
-
 <img align="left" alt="Web Design" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBmNDIwYzI2MjI5YWZlZWFkZDI4NzQ1YjI5ZTBmYzY0OTcxMzQwYSZjdD1n/SLDzcRiI8AN0GpCXt8/giphy.gif" width="120px"/>
 
 **A responsive web application featuring:**
