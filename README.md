@@ -17,7 +17,6 @@
 
 I'm a passionate developer dedicated to building efficient, scalable solutions across multiple technologies. With expertise in **game development**, **bot architecture**, and **full-stack web technologies**, I love turning ideas into reality through clean, maintainable code.
 
-- 🎮 Game development enthusiast with interactive mechanics
 - 🤖 Telegram/Discord bot architect
 - 💡 Problem solver who loves elegant solutions
 - 📚 Continuous learner exploring new technologies
@@ -74,19 +73,6 @@ I'm a passionate developer dedicated to building efficient, scalable solutions a
 
 </div>
 
----
-
-<img align="left" alt="Web Design" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBmNDIwYzI2MjI5YWZlZWFkZDI4NzQ1YjI5ZTBmYzY0OTcxMzQwYSZjdD1n/SLDzcRiI8AN0GpCXt8/giphy.gif" width="120px"/>
-
-**A responsive web application featuring:**
-- 🎨 Clean, modern HTML structure
-- 🎯 Responsive CSS styling
-- ⚡ Interactive JavaScript functionality
-- 📱 Mobile-first design approach
-
-*Status*: Actively maintained with regular UI/UX improvements
-
-<br/><br/>
 
 ---
 
