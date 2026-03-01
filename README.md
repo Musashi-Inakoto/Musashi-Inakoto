@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="GIF" src="[[https://media.giphy.com/media/SWoRKslHVtqjXVJV0g/giphy.gif](https://www.pinterest.com/pin/programmer-day-porforever--8725793007198140/)](https://www.pinterest.com/pin/programmer-day-porforever--8725793007198140/)" width="280px"/>
+<img align="right" alt="GIF" src="https://www.pinterest.com/pin/programmer-day-porforever--8725793007198140/" width="280px"/>
 
 I'm a passionate developer dedicated to building efficient, scalable solutions across multiple technologies. With expertise in **game development**, **bot architecture**, and **full-stack web technologies**, I love turning ideas into reality through clean, maintainable code.
 
