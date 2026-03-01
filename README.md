@@ -99,6 +99,6 @@ I'm a passionate developer dedicated to building efficient, scalable solutions a
 
 ---
 
-## 💡 Development Approach
+
 
 <div align="center">
